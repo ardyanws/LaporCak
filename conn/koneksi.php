@@ -1,0 +1,1 @@
+<?php $koneksi=mysqli_connect("localhost","id20979489_ardyan","Ardyantowsp4_","id20979489_pengaduan_masyarakat"); ?>
